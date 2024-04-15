@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D7B81BE2-079F-4A10-9636-BA5542107E5A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E215A05D-3A1E-4D7F-B2C9-41BC40A5265B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/Login/ViewModel/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "login(user:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E215A05D-3A1E-4D7F-B2C9-41BC40A5265B - 7c2626fbc209474b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pruebatecnica.LoginViewModel.login(user: Swift.String, password: Swift.String) async -&gt; Swift.Bool"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "E215A05D-3A1E-4D7F-B2C9-41BC40A5265B - 795fb37258b6a752"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Pruebatecnica.LoginViewModel.login(user: Swift.String, password: Swift.String) async -&gt; Swift.Bool"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/Login/ViewModel/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8FCBE19-2BCC-433C-8482-7A9A6089E2E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "callService(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8FCBE19-2BCC-433C-8482-7A9A6089E2E2 - 6fe4408f76f7f704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+               <Location
+                  uuid = "D8FCBE19-2BCC-433C-8482-7A9A6089E2E2 - ef7848205b1507"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "D8FCBE19-2BCC-433C-8482-7A9A6089E2E2 - 6fe4408f76f7f61c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+               <Location
+                  uuid = "D8FCBE19-2BCC-433C-8482-7A9A6089E2E2 - ef7848205b141f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6E6560A-6065-4715-A346-E0383165759D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "callService(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6E6560A-6065-4715-A346-E0383165759D - 6fe4408f76f7f7a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1876">
+               </Location>
+               <Location
+                  uuid = "A6E6560A-6065-4715-A346-E0383165759D - 6fe4408f76f7f6a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "2032">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C1CA41C-F4E0-4286-82E7-91A84BFA63C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "callService(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C1CA41C-F4E0-4286-82E7-91A84BFA63C9 - a9fe530e2b9d3e59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+               <Location
+                  uuid = "5C1CA41C-F4E0-4286-82E7-91A84BFA63C9 - a9fe530e2b9d3e59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F4927F8-4252-40FD-AE1F-324ADAF691AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "callService(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F4927F8-4252-40FD-AE1F-324ADAF691AE - 6fe4408f76f7f515"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+               <Location
+                  uuid = "0F4927F8-4252-40FD-AE1F-324ADAF691AE - 6fe4408f76f7f42d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "015B1802-0E28-48DF-90CF-D3548DDC50A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "callService(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "015B1802-0E28-48DF-90CF-D3548DDC50A1 - 6fe4408f76f7f491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "536">
+               </Location>
+               <Location
+                  uuid = "015B1802-0E28-48DF-90CF-D3548DDC50A1 - 6fe4408f76f7f7a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Pruebatecnica.ServiceLayer.callService&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Pruebatecnica.RequestModel, &#x3c4;_0_0.Type) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "Pruebatecnica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carloscardoso/Desktop/Pruebatecnica/Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08D839CC-65B9-404A-8ED8-8C38C69093F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/ServiceLayer/ServiceLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "buildQueryItems(params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88113702-5C31-4FD9-ADEB-772AF36E415D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pruebatecnica/Login/Model/LoginModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
